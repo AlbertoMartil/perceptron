@@ -140,4 +140,4 @@ nn_graph = draw_network(
     activation_hidden=activation_hidden,
     activation_output=activation_output)
 
-st.graphviz_chart(nn_graph)
+#st.graphviz_chart(nn_graph)
