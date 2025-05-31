@@ -1,8 +1,9 @@
 streamlit
 pandas
-seaborn
 numpy
+seaborn
 matplotlib
 scikit-learn
 tensorflow
+pydot
 graphviz
